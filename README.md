@@ -6,3 +6,6 @@ A Gradio app is included at the end of the notebooks that takes plant leaf image
 Author: Brandon Chan 
 
 Plant model created from scratch demo video: https://drive.google.com/file/d/1Wt2_53gbbellT8aqIZN5Vr3PdOUforvu/view?usp=sharing 
+
+Plant enseemble model from pretrained models video: 
+https://drive.google.com/file/d/1uqQJdAuLB0EfoP7wA_hQk0VKY-8wLwOM/view?usp=sharing 
